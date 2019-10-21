@@ -1,4 +1,4 @@
-RSpec.describe "Well-Formed HTML Document" do
+#RSpec.describe "Well-Formed HTML Document" do
   # The goal is to use the W3C Validator to ensure the content is valid.
   # This is an early stage lab and students aren't used to HTML debugging via
   # test suite. We use this to activate `learn`
